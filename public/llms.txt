@@ -1,57 +1,47 @@
-# Nexus — Generative Engine Optimization Map
-
-> A לוגיסטיקה ושרשרת אספקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://nexus-46d54777.zappy5.app
+https://example.com
 Nexus - פלטפורמת ייבוא אוטומטית לעסקים המובילה בישראל. ניהול ייצור וייבוא מוצרים עם תמחור שקוף ואוטומציה מלאה. פתרונות לוגיסטיים מתקדמים לעסקים.
 
 ### שירותים
-https://nexus-46d54777.zappy5.app/services
+https://example.com/services
 שירותי nexus enrollment center מקצועיים לעסקים. ניהול ייצור, פלטפורמת ייבוא אוטומטית, משלוחים בינלאומיים ובקרת איכות. פתרונות מותאמים אישית לכל עסק.
 
 ### אודות
-https://nexus-46d54777.zappy5.app/about
+https://example.com/about
 אודות Nexus - חברת לוגיסטיקה מובילה בישראל. למדו על החזון, המשימה והערכים שלנו בתחום renewing nexus card ופלטפורמת ייבוא אוטומטית לעסקים.
 
 ### צור קשר
-https://nexus-46d54777.zappy5.app/contact
+https://example.com/contact
 צור קשר עם Nexus לפתרונות nexus enrollment center מקצועיים. צוות המומחים שלנו זמין לייעוץ חינם ולהצעת מחיר מותאמת אישית. התקשרו או מלאו טופס יצירת קשר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nexus-46d54777.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nexus-46d54777.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nexus-46d54777.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Nexus
-Nexus is a business in the לוגיסטיקה ושרשרת אספקה industry.
-
-## Target Audience
-לקוחות עסקיים המעוניינים בייצור וייבוא מוצרים
-
-## Industry
-לוגיסטיקה ושרשרת אספקה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://nexus-46d54777.zappy5.app/sitemap.xml
-- **Robots.txt**: https://nexus-46d54777.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
