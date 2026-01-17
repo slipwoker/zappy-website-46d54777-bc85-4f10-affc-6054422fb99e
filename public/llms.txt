@@ -1,0 +1,57 @@
+# Nexus — Generative Engine Optimization Map
+
+> A לוגיסטיקה ושרשרת אספקה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://nexus-46d54777.zappy5.app
+Nexus - פלטפורמת ייבוא אוטומטית לעסקים המובילה בישראל. ניהול ייצור וייבוא מוצרים עם תמחור שקוף ואוטומציה מלאה. פתרונות לוגיסטיים מתקדמים לעסקים.
+
+### שירותים
+https://nexus-46d54777.zappy5.app/services
+שירותי nexus enrollment center מקצועיים לעסקים. ניהול ייצור, פלטפורמת ייבוא אוטומטית, משלוחים בינלאומיים ובקרת איכות. פתרונות מותאמים אישית לכל עסק.
+
+### אודות
+https://nexus-46d54777.zappy5.app/about
+אודות Nexus - חברת לוגיסטיקה מובילה בישראל. למדו על החזון, המשימה והערכים שלנו בתחום renewing nexus card ופלטפורמת ייבוא אוטומטית לעסקים.
+
+### צור קשר
+https://nexus-46d54777.zappy5.app/contact
+צור קשר עם Nexus לפתרונות nexus enrollment center מקצועיים. צוות המומחים שלנו זמין לייעוץ חינם ולהצעת מחיר מותאמת אישית. התקשרו או מלאו טופס יצירת קשר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://nexus-46d54777.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nexus-46d54777.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nexus-46d54777.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Nexus
+Nexus is a business in the לוגיסטיקה ושרשרת אספקה industry.
+
+## Target Audience
+לקוחות עסקיים המעוניינים בייצור וייבוא מוצרים
+
+## Industry
+לוגיסטיקה ושרשרת אספקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://nexus-46d54777.zappy5.app/sitemap.xml
+- **Robots.txt**: https://nexus-46d54777.zappy5.app/robots.txt
